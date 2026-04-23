@@ -1,13 +1,24 @@
 body {
-  background-image: url('caminho/para/sua-imagem.jpg');
-  background-size: cover; /* Cobre toda a área */
-  background-position: center; /* Centraliza */
-  background-repeat: no-repeat; /* Não repete */
-  background-attachment: fixed; /* Mantém a imagem fixa ao rolar */
+  background-image: url('../Img/fundodresrosa.webp');
+  background-size: cover;
+  /* Cobre toda a área */
+  background-position: center;
+  /* Centraliza */
+  background-repeat: no-repeat;
+  /* Não repete */
+  background-attachment: fixed;
+  /* Mantém a imagem fixa ao rolar */
 }
-div{
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  a{
+
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  color: azure;
+}
+
+p {
+  background-color: rgba(0, 0, 0, 0.24);
+}
+
+a {
   color: chartreuse;
 }
