@@ -1,0 +1,13 @@
+body {
+  background-image: url('caminho/para/sua-imagem.jpg');
+  background-size: cover; /* Cobre toda a área */
+  background-position: center; /* Centraliza */
+  background-repeat: no-repeat; /* Não repete */
+  background-attachment: fixed; /* Mantém a imagem fixa ao rolar */
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a{
+  color: chartreuse;
+}
