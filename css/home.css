@@ -1,0 +1,32 @@
+ body{
+ background-image: url("../Img/fundomar.png");
+ background-size: cover; /* Cobre toda a área */
+  background-position: center; /* Centraliza */
+  background-repeat: no-repeat; /* Não repete */
+  background-attachment: fixed; /* Mantém a imagem fixa ao rolar */
+}
+  table, th, td {
+    background-color: rgba(201, 212, 223, 0.267);
+    
+  border: 1px solid rgb(0, 0, 0);
+  
+  }
+  div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+  }
+a{
+  color: chartreuse;
+}
+ul{
+   list-style-type: circle;
+   font-size: 25px;
+}
+ol{
+  list-style-type: upper-roman;
+  font-size: 25px;
+  color: rgb(5, 8, 206);
+}
+p {
+  background-color: rgba(221, 203, 203, 0.24);
+}
